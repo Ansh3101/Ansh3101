@@ -65,15 +65,16 @@ Discord:
 
 <h2> Statistics </h2>
 
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
+
+  <!--
+
 ![](https://komarev.com/ghpvc/?username=Ansh3101) 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Ansh3101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     </p>
-       <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
-
-<p align="center">
-  <!--
    <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 
 
