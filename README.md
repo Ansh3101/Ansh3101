@@ -40,6 +40,8 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 - #### [LeNet](https://github.com/Ansh3101/Papers/LeNet.py) 
 
+- #### [VGG](https://github.com/Ansh3101/Papers/VGG.py) 
+
 <br />
 <h2> Organizations </h2>
 
