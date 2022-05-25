@@ -38,9 +38,9 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 <b>Basic Implementations Of Some Of The Most Significant Papers Published In Reference To The Advancement Of Deep Learning</b>
 
-- #### [LeNet](https://github.com/Ansh3101/Papers/LeNet.py) 
+- #### [LeNet](https://github.com/Ansh3101/Papers/blob/main/LeNet.py) 
 
-- #### [VGG](https://github.com/Ansh3101/Papers/VGG.py) 
+- #### [VGG](https://github.com/Ansh3101/Papers/blob/main/VGG.py) 
 
 <br />
 <h2> Organizations </h2>
