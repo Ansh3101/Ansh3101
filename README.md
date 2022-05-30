@@ -44,6 +44,8 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 - #### [GoogLeNet](https://github.com/Ansh3101/Papers/blob/main/GoogLeNet/GoogLeNet.py)
 
+- #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/ResNet.py)
+
 <br />
 <h2> Organizations </h2>
 
