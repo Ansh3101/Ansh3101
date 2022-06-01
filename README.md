@@ -45,6 +45,11 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - #### [GoogLeNet](https://github.com/Ansh3101/Papers/blob/main/GoogLeNet/)
 
 - #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/)
+<br />
+
+### [MachineLearning](https://github.com/Ansh3101/Papers/)
+
+<b>Regressors, Classifiers & Perceptrons Implemented On Simple & Intricate Datasets</b>
 
 <br />
 <h2> Organizations </h2>
