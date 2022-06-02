@@ -51,7 +51,7 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 <b>Regressors, Classifiers & Perceptrons Implemented On Simple As Well As Intricate Datasets</b>
 
-- #### [Helper Function](https://github.com/Ansh3101/Papers/blob/main/Helper/)
+- #### [Helper Function](https://github.com/Ansh3101/Papers/tree/main/Helper/)
 
 <br />
 <h2> Organizations </h2>
