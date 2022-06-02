@@ -47,9 +47,11 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/)
 <br />
 
-### [MachineLearning](https://github.com/Ansh3101/Papers/)
+### [MachineLearning](https://github.com/Ansh3101/MachineLearning/)
 
-<b>Regressors, Classifiers & Perceptrons Implemented On Simple & Intricate Datasets</b>
+<b>Regressors, Classifiers & Perceptrons Implemented On Simple As Well As Intricate Datasets</b>
+
+- #### [Helper Function](https://github.com/Ansh3101/Papers/blob/main/Helper/)
 
 <br />
 <h2> Organizations </h2>
