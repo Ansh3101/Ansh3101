@@ -53,6 +53,7 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 - #### [Helper Function](https://github.com/Ansh3101/MachineLearning/tree/main/Helper/)
 - #### [Linear Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Linear%20Regression/)
+- #### [Logistic Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Logistic%20Regression/)
 
 <br />
 <h2> Organizations </h2>
