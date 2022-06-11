@@ -45,6 +45,8 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - #### [GoogLeNet](https://github.com/Ansh3101/Papers/blob/main/GoogLeNet/)
 
 - #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/)
+
+- #### [LinearGAN / PrimitiveGAN](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/)
 <br />
 
 ### [MachineLearning](https://github.com/Ansh3101/MachineLearning/)
