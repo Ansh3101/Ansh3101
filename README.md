@@ -59,7 +59,7 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 <br />
 <h2> Organizations </h2>
-
+Xade
 
 <h2> Collaboration </h2>
 
