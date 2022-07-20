@@ -56,10 +56,13 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - #### [Helper Function](https://github.com/Ansh3101/MachineLearning/tree/main/Helper/)
 - #### [Linear Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Linear%20Regression/)
 - #### [Logistic Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Logistic%20Regression/)
+- #### [Decision Trees](https://github.com/Ansh3101/MachineLearning/tree/main/Decision%20Trees/)
 
 <br />
 <h2> Organizations </h2>
-Xade
+### Xade
+<b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
+
 
 <h2> Collaboration </h2>
 
