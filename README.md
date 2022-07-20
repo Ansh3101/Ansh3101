@@ -60,9 +60,16 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 
 <br />
 <h2> Organizations </h2>
-### Xade
-<b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
 
+<img src='https://user-images.githubusercontent.com/105856839/179986176-5136835d-d57e-4c88-a376-05eaaac86d80.jpeg' />
+
+## Xade
+
+### <b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
+
+#### Static Site - [xade.finance](https://www.xade.finance/)
+
+#### WebApp - [app.xade.finance](https://app.xade.finance/)
 
 <h2> Collaboration </h2>
 
