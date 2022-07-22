@@ -29,7 +29,7 @@ I was a finalist in the Articial Intelligence International Junior Contest in th
 - R
 - Swift
 - Java
-    - Kotlin
+
 
 
 <h2> Repositories </h2>
