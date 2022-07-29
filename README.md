@@ -8,10 +8,19 @@
 
 <h2> About </h2>
 
-Hi! I'm Anshuman Tekriwal. I enjoy working with Artifical Intelligence & Machine Learning; My Deep Learning framework of choice is Tensorflow though I work with PyTorch as well as SciKit-Learn for the more traditional techniques like Random Forests or SVMs.
+Hi! I'm Anshuman Tekriwal. I enjoy work on <b>Artifical Intelligence - Machine Learning And Deep Learning</b>
+<br> 
+<br> 
+I use Python And R for Machine Learning while I use the PyTorch framework for Deep Learning (I am also comfortable with Tensorflow, which I prefer for simple problems).
 
-I was a finalist in the Articial Intelligence International Junior Contest in the AI In GeoServices track as well as The National Technological Olympiad (2021-22) in The Machine Learning division.
+<br>
 
+<h2>Achivements</h2>
+
+- Finalist at the Artificial Intelligence International Junior Contest. (2nd in the AI In Geoservices track).
+- I was also a finalist for the National Technological Olympiad 2021-22 (Artificial Intelligence track).
+- I also finished in the Top 30 at the Uber Global Hackathon 2022 in the Coding Department. (Theme: Global Healthcare)
+<br>
 
 <h2> Skills </h2>
 
