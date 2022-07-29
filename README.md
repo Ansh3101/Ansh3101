@@ -17,9 +17,9 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <h2>Achivements</h2>
 
-- Finalist at the Artificial Intelligence International Junior Contest. (2nd in the AI In Geoservices track).
-- I was also a finalist for the National Technological Olympiad 2021-22 (Artificial Intelligence track).
-- I also finished in the Top 30 at the Uber Global Hackathon 2022 in the Coding Department. (Theme: Global Healthcare)
+- Finalist at the Artificial Intelligence International Junior Contest (2nd in the AI In Geoservices track)
+- I was also a finalist for the National Technological Olympiad 2021-22 (Artificial Intelligence track)
+- I also finished in the Top 30 at the Uber Global Hackathon 2022 in the Coding Department (Theme: Global Healthcare)
 <br>
 
 <h2> Skills </h2>
