@@ -9,40 +9,41 @@
 <h2> About </h2>
 
 
-Hi! I'm Anshuman Tekriwal. I enjoy work on <b>Artifical Intelligence - Machine Learning And Deep Learning</b>
+Hi! I'm Anshuman Tekriwal. I enjoy working on <b>Artifical Intelligence - Machine Learning And Deep Learning</b>
 <br> 
 <br> 
-I use Python And R for Machine Learning while I use the PyTorch framework for Deep Learning (I am also comfortable with Tensorflow, which I prefer for simple problems).
+I use Python And R for Machine Learning while I use the PyTorch framework for Deep Learning (I am also comfortable with Tensorflow, which I prefer for simpler problems).
 
 <br>
 
-<h2>Achivements</h2>
+<h2>🏅  Achivements</h2>
 
 - Finalist at the Artificial Intelligence International Junior Contest (2nd in the AI In Geoservices track)
 - I was also a finalist for the National Technological Olympiad 2021-22 (Artificial Intelligence track)
 - I also finished in the Top 30 at the Uber Global Hackathon 2022 in the Coding Department (Theme: Global Healthcare)
 <br>
 
-<h2> Skills </h2>
+<h2>🔧  Technologies And Tools </h2>
 
+- Python
+  - TensorFlow
+  - PyTorch
+  - Flask
+  - Django
+- C++
+- R
+- Java
+- Swift
 - HTML
 - CSS
 - JavaScript
   - Node.JS
   - React.JS
   - React Native
-- Python
-  - TensorFlow
-  - PyTorch
-  - Flask
-  - Django
-- R
-- Swift
-- Java
 
 
 
-<h2> Repositories </h2>
+<h2>📃  Repositories </h2>
 
 ### [Papers](https://github.com/Ansh3101/Papers/)
 
@@ -69,7 +70,7 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [Decision Trees](https://github.com/Ansh3101/MachineLearning/tree/main/Decision%20Trees/)
 
 <br />
-<h2> Organizations </h2>
+<h2>🇺🇳  Organizations </h2>
 
 <img src='https://user-images.githubusercontent.com/105856839/179986176-5136835d-d57e-4c88-a376-05eaaac86d80.jpeg' />
 
@@ -81,10 +82,10 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 #### WebApp - [app.xade.finance](https://app.xade.finance/)
 
-<h2> Collaboration </h2>
+<h2>🤝 Collaboration </h2>
 
 
-<h2> Contact Me </h2>
+<h2>📇  Contact Me </h2>
 
 E-Mail: 
         
@@ -106,7 +107,7 @@ Discord:
         
 
 
-<h2> Statistics </h2>
+<h2>📈  Statistics </h2>
 
 
 <b><i>PROFILE VIEWS -  </i></b>
@@ -151,7 +152,7 @@ If you're looking for someone like me, I'd be happy to be part of your team.<br 
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Megabyte-143&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Megabyte-143&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Megabyte-143&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Anshuman's Github Stats" width="45%"/>
     </p>
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Megabyte-143&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
