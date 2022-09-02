@@ -45,6 +45,10 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <h2>📃  Repositories </h2>
 
+### [Eye.AI](https://github.com/Ansh3101/Eye.AI/)
+
+<br />
+
 ### [Papers](https://github.com/Ansh3101/Papers/)
 
 <b>Basic Implementations Of Some Of The Most Significant Papers Published In Reference To The Advancement Of Deep Learning</b>
