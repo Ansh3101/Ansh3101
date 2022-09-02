@@ -25,21 +25,28 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <h2>🔧  Technologies And Tools </h2>
 
-- Python
-  - TensorFlow
-  - PyTorch
-  - Flask
-  - Django
-- C++
-- R
-- Java
-- Swift
-- HTML
-- CSS
-- JavaScript
-  - Node.JS
-  - React.JS
-  - React Native
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
+![PyTorch](https://img.shields.io/badge/pytorch-%23F05033.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+![R](https://img.shields.io/badge/R-268BEE?style=for-the-badge&logo=r&logoColor=white)
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
+![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 
@@ -74,19 +81,6 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [Decision Trees](https://github.com/Ansh3101/MachineLearning/tree/main/Decision%20Trees/)
 
 <br />
-<h2>🇺🇳  Organizations </h2>
-
-<img src='https://user-images.githubusercontent.com/105856839/179986176-5136835d-d57e-4c88-a376-05eaaac86d80.jpeg' />
-
-## Xade
-
-### <b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
-
-#### Static Site - [xade.finance](https://www.xade.finance/)
-
-#### WebApp - [app.xade.finance](https://app.xade.finance/)
-
-<h2>🤝 Collaboration </h2>
 
 
 <h2>📇  Contact Me </h2>
@@ -161,3 +155,17 @@ If you're looking for someone like me, I'd be happy to be part of your team.<br 
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Megabyte-143&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 </p>
+
+<h2>🇺🇳  Organizations </h2>
+
+<img src='https://user-images.githubusercontent.com/105856839/179986176-5136835d-d57e-4c88-a376-05eaaac86d80.jpeg' />
+
+## Xade
+
+### <b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
+
+#### Static Site - [xade.finance](https://www.xade.finance/)
+
+#### WebApp - [app.xade.finance](https://app.xade.finance/)
+
+<h2>🤝 Collaboration </h2>
