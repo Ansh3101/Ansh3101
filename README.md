@@ -69,6 +69,8 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [ResNet](https://github.com/Ansh3101/Papers/blob/main/ResNet/)
 
 - #### [LinearGAN / PrimitiveGAN](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/)
+
+- #### [DCGAN / ConvolutionalGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/)
 <br />
 
 ### [MachineLearning](https://github.com/Ansh3101/MachineLearning/)
