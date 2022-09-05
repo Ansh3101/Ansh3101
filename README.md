@@ -52,7 +52,6 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <h2>📃  Repositories </h2>
 
-### [Eye.AI](https://github.com/Ansh3101/Eye.AI/)
 
 <br />
 
@@ -71,8 +70,8 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [LinearGAN / PrimitiveGAN](https://github.com/Ansh3101/Papers/blob/main/LinearGAN/)
 
 - #### [DCGAN / ConvolutionalGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/)
-        - #### [DigitGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitsGAN/)
-        - #### [FaceGAN]()
+   - #### [DigitGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitGAN/)
+   - #### [FaceGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/FaceGAN/)
 <br />
 
 ### [MachineLearning](https://github.com/Ansh3101/MachineLearning/)
@@ -173,3 +172,6 @@ If you're looking for someone like me, I'd be happy to be part of your team.<br 
 #### WebApp - [app.xade.finance](https://app.xade.finance/)
 
 <h2>🤝 Collaboration </h2>
+
+### [Eye.AI](https://github.com/Ansh3101/Eye.AI/)
+
