@@ -1,7 +1,7 @@
 
 <img width=1000 src='https://raw.githubusercontent.com/Ansh3101/Ansh3101/master/header.png'/>
 
-<h1 align='center'> Hey! 👋</h1>
+<h1 align='center'> Hey! </h1>
 
 
 
