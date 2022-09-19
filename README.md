@@ -47,13 +47,13 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 ![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br />
+<br />
+<br />
 
 
 
 <h2>📃  Repositories </h2>
-
-
-<br />
 
 ### [Papers](https://github.com/Ansh3101/Papers/)
 
@@ -72,6 +72,7 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [DCGAN / ConvolutionalGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/)
    - #### [DigitGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/DigitGAN/)
    - #### [FaceGAN](https://github.com/Ansh3101/Papers/blob/main/DCGAN/FaceGAN/)
+   
 <br />
 
 ### [MachineLearning](https://github.com/Ansh3101/MachineLearning/)
@@ -82,6 +83,12 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 - #### [Linear Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Linear%20Regression/)
 - #### [Logistic Regression](https://github.com/Ansh3101/MachineLearning/tree/main/Logistic%20Regression/)
 - #### [Decision Trees](https://github.com/Ansh3101/MachineLearning/tree/main/Decision%20Trees/)
+
+<br />
+
+### [Algorithms](https://github.com/Ansh3101/Algorithms/)
+
+<b>Data Structures & Algorithms Implemented In C++ & Python</b>
 
 <br />
 
