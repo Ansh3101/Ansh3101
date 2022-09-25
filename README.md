@@ -90,6 +90,7 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <b>Data Structures & Algorithms Implemented In C++ & Python</b>
 - #### [Basics](https://github.com/Ansh3101/Algorithms/tree/main/Basics/)
+- #### [Pattern Writers](https://github.com/Ansh3101/Algorithms/tree/main/Patterns/)
 
 <br />
 
