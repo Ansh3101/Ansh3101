@@ -131,7 +131,8 @@ Discord:
 <br />
 <b><i>CONTRIBUTIONS - </i> </b>
   <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ansh3101&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="45%"/>
       </p>
   <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 
@@ -143,20 +144,13 @@ Discord:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansh3101&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Ansh3101&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Megabyte's Github Stats" width="45%"/>
     </p>
-   <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=Ansh3101&theme=radical&bg_color=0D1117&hide_border=true" width="100%"/>
 
 
 
 ![](https://komarev.com/ghpvc/?username=Ansh3101) 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh3101&theme=dark" />  <img align='left' src='https://github-readme-stats.vercel.app/api/?username=Ansh3101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515'/>
-
-<!--
-I am looking to collaborate on basically anything to do with machine learning; be it a competition or a project. I have experience with deploying machine learning models as well to the web & designing said websites. 
-
-In Machine Learning, I have most experience with Computer Vision; 2D & 3D images; I am also familiar with OCR which was the basis of the project with which I qualiied for the finals of the NTO.
-
-If you're looking for someone like me, I'd be happy to be part of your team.<br > My contact information is mentioned below
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Megabyte-143&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="Megabyte's Github Stats" width="45%"/>
@@ -165,20 +159,4 @@ If you're looking for someone like me, I'd be happy to be part of your team.<br 
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Megabyte-143&theme=green&bg_color=0D1117&hide_border=true" width="100%"/>
 </p>
-
-<h2>🇺🇳  Organizations </h2>
-
-<img src='https://user-images.githubusercontent.com/105856839/179986176-5136835d-d57e-4c88-a376-05eaaac86d80.jpeg' />
-
-## Xade
-
-### <b>The Future Of Finance - <i>The World's First Decentralised NeoBank</i></b>
-
-#### Static Site - [xade.finance](https://www.xade.finance/)
-
-#### WebApp - [app.xade.finance](https://app.xade.finance/)
-
-<h2>🤝 Collaboration </h2>
-
-### [Eye.AI](https://github.com/Ansh3101/Eye.AI/)
 
