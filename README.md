@@ -94,6 +94,12 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <br />
 
+### [AIIJC](https://github.com/Ansh3101/AIIJC/)
+
+<b>Codebase For Team CSPDarknet53's Interpretation Of The AI In Geoservices Challenge From The Artificial Intelligence International Junior Contest</b>
+
+<br />
+
 
 <h2>📇  Contact Me </h2>
 
