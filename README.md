@@ -100,6 +100,12 @@ I use Python And R for Machine Learning while I use the PyTorch framework for De
 
 <br />
 
+### [Eye.AI](https://github.com/Ansh3101/Eye.AI/)
+
+<b>The Code Repository For Eye.AI: An Initiative To Detect Diseases Even In The Most Under-developed Regions</b>
+
+<br />
+
 
 <h2>📇  Contact Me </h2>
 
