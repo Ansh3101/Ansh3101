@@ -1,5 +1,5 @@
 
-<img width=1000 src='https://raw.githubusercontent.com/Ansh3101/Ansh3101/master/header.png'/>
+<img width="1095" alt="header" src="https://user-images.githubusercontent.com/105856839/206905046-ab388450-b02c-483e-9d42-a1ca4d3d60f8.png">
 
 <h1 align='center'> Hey! </h1>
 
