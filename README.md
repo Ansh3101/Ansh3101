@@ -115,17 +115,10 @@ E-Mail:
         
         anshumantekriwalcode@gmail.com
 
-Instagram:
-        
-        ansh.3101
-        
-Twitter:
-        
-        Ansh_3101
-        
+
 Discord:
         
-        Ansh3101#9783
+        ansh3101
         
 
 
